@@ -1,6 +1,8 @@
 <p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
 
-<p align="center"><img src="assets/hero.png" alt="Kronika WhatsApp" width="700"/></p>
+https://github.com/user-attachments/assets/3b42e11b-7e80-4e2c-bcae-ba8ca5f54f3b
+
+<!-- Poprzednie hero (backup, statyczne): assets/hero.png -->
 <h1 align="center">Kronika WhatsApp</h1>
 <h3 align="center">Z grupy WhatsApp robi przeszukiwalną bazę wiedzy z OCR zdjęć i transkrypcją głosówek</h3>
 

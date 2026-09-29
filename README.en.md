@@ -1,6 +1,8 @@
 <p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
 
-<p align="center"><img src="assets/hero.png" alt="WhatsApp Chronicle" width="700"/></p>
+https://github.com/user-attachments/assets/3b42e11b-7e80-4e2c-bcae-ba8ca5f54f3b
+
+<!-- Previous hero (backup, static): assets/hero.png -->
 <h1 align="center">WhatsApp Chronicle</h1>
 <h3 align="center">Turns a WhatsApp group into a searchable knowledge base with image OCR and voice-message transcription</h3>
 
